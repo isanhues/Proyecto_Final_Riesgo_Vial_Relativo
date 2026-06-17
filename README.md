@@ -55,7 +55,7 @@ The analysis also identifies specific high-risk segments, especially in the Madr
 
 The full project report is available here:
 
-[View PDF report](Proyecto_Ivan_Sanchez_Huesca.pdf)
+[View PDF report](Proyecto_final_Iván_Sánchez_Huesca.pdf)
 
 ## Author
 
