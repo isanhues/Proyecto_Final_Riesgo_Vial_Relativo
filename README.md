@@ -57,6 +57,10 @@ The full project report is available here:
 
 [View PDF report](Proyecto_final_Iván_Sánchez_Huesca.pdf)
 
+## Academic Result
+
+This project received a final grade of 9.5/10.
+
 ## Author
 
 Iván Sánchez Huesca
